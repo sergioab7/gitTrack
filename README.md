@@ -10,7 +10,7 @@
 
 gitTrack allows you to search for information from any github user!
 
-## :shipit: Uso
+## :shipit: Use
 
 ```
 git clone https://github.com/sergioab7/gitTrack.git
@@ -18,7 +18,7 @@ cd gitTrack/
 chmod +x gitTrack.sh
 ./gitTrack.sh
 ```
-## :small_orange_diamond: Resultados
+## :small_orange_diamond: Results
 
 <p align="center">
 <img src="images/resultados.png"
